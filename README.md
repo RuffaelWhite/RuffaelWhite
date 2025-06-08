@@ -90,7 +90,7 @@
 
 - 💌 Email: cybershield.guardian[at]protonmail.com  
 - 🧑‍💻 GitHub: [@RuffaelWhite](https://github.com/RuffaelWhite)  
-- 🌐 LinkedIn: [linkedin.com/in/ruffaelwhite](#) *(replace with your real link)*  
+- 🌐 LinkedIn: Coming Soon!  
 - 📜 Blog/Portfolio: Coming Soon
 
 ---
