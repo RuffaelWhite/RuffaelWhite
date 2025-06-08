@@ -6,11 +6,11 @@
 
 ## 🔍 About Me
 
-- 💻 **Cybersecurity Specialist** | Ethical Hacker | Open-Source Advocate  
-- 🎯 Focused on **threat detection**, **penetration testing**, and **automated security tooling**  
+- 💻 Cybersecurity Specialist | Ethical Hacker | Open-Source Advocate  
+- 🎯 Focused on threat detection, penetration testing, and automated security tooling  
 - 🛠️ Building practical tools and writing code with a security-first mindset  
-- 🚀 Lifelong learner, currently exploring **AI in cybersecurity** and **zero-trust architecture**  
-- 🌐 Contributor to open-source security projects
+- 🚀 Lifelong learner, currently exploring AI in cybersecurity and zero-trust architecture  
+- 🌐 Contributor to open-source security projects  
 
 ---
 
@@ -23,7 +23,7 @@
 
 ---
 
-## 🤝 Let’s Collaborate
+## 🤝 Let’s Collaborate On
 
 - 🔧 Python-based cybersecurity tools  
 - 🛡️ Open-source projects related to InfoSec  
@@ -34,10 +34,10 @@
 
 ## 📫 Reach Me
 
-- 💌 Email: `cybershield.guardian[at]protonmail.com`  
+- 💌 Email: cybershield.guardian[at]protonmail.com  
 - 🧑‍💻 GitHub: [@RuffaelWhite](https://github.com/RuffaelWhite)  
-- 🌐 LinkedIn: [linkedin.com/in/ruffaelwhite](#) *(Add your link here)*  
-- 📜 Personal Blog / Portfolio: [Coming Soon]
+- 🌐 LinkedIn: [linkedin.com/in/ruffaelwhite](#) *(replace with your real link)*  
+- 📜 Blog/Portfolio: Coming Soon
 
 ---
 
