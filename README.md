@@ -110,14 +110,3 @@ I once turned a failed pentest into a full system audit tool. Every exploit is a
 
 
 "Code is power. Secure code is responsibility."
-
-
----
-
-✅ You're now showcasing:  
-- **TryHackMe experience**  
-- **Google Bug Bounty reports**  
-- **Cert progress + tools**  
-- **Cybersecurity specializations**
-
-Let me know if you want to add a **profile badge** from Google VRP, a **custom README banner**, or highlight your reports on platforms like HackerOne or Bugcrowd.
