@@ -30,7 +30,6 @@
 - 🏅 Badges: 3  
 - ✅ Completed Rooms: 12  
 - 📈 Rank: 503,057  
-- 🔥 Streak: 0  
 
 ### ✅ Completed Rooms:
 
@@ -46,6 +45,35 @@
 - How Websites Work  
 - Linux Fundamentals Part 1  
 - Red Team Fundamentals  
+
+---
+
+## 🧩 Google Bug Hunters
+
+- 🧑 Name: **Daniel Abebe**  
+- 🌍 Country: Ethiopia  
+- 📅 Joined: February 2025  
+- 🏆 Awards: 2  
+- 🧾 Public Reports: 0  
+- 🔢 Hall of Fame Rank: N/A  
+
+### 🐛 Submitted Reports:
+
+1. **Weak ciphers & missing headers in Google Apps Script Editor**  
+   • Exposure to session hijacking & data leakage  
+   • Status: Closed | Date: Feb 23, 2025
+
+2. **Misconfigurations in support.google.com**  
+   • Deprecated TLS (1.0, 1.1), HSTS errors  
+   • Status: Closed | Date: Feb 21, 2025
+
+3. **Security scan of Google Forms**  
+   • Weak ciphers, outdated TLS, HSTS errors  
+   • Status: Closed | Date: Feb 21, 2025
+
+4. **Burp Suite assessment report**  
+   • Vulnerability categorization & risk assessment  
+   • Status: Closed | Date: Feb 19, 2025
 
 ---
 
@@ -74,3 +102,22 @@ Languages: Python, Bash, JavaScript
 Tools: Metasploit, Burp Suite, Wireshark, Nmap, OWASP ZAP
 Environments: Linux (Kali, Parrot OS), Docker, Git, VirtualBox, SIEM
 Certifications: CEH (in progress), OSCP (soon)
+
+⚡ Fun Fact
+I once turned a failed pentest into a full system audit tool. Every exploit is a lesson waiting to be automated.
+
+📊 GitHub Stats
+
+
+"Code is power. Secure code is responsibility."
+
+
+---
+
+✅ You're now showcasing:  
+- **TryHackMe experience**  
+- **Google Bug Bounty reports**  
+- **Cert progress + tools**  
+- **Cybersecurity specializations**
+
+Let me know if you want to add a **profile badge** from Google VRP, a **custom README banner**, or highlight your reports on platforms like HackerOne or Bugcrowd.
